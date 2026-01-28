@@ -1,1 +1,1 @@
-# cross_species_coexpression_analysis
+# Directed Studies Project: Cross Species Conservation of Transcriptional Regulator Coexpression
